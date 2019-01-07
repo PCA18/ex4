@@ -1,0 +1,192 @@
+srun: error: Only allocated 1 nodes asked for 8
+double100m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double100m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double100m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double100m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double100m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double100m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double500m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double500m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double500m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double500m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double500m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double500m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double1000m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double1000m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double1000m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double1000m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double1000m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double1000m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double10000m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double10000m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double10000m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double10000m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double10000m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+double10000m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO3100m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO3100m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO3100m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO3100m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO3100m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO3100m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO3500m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO3500m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO3500m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO3500m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO3500m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO3500m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO31000m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO31000m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO31000m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO31000m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO31000m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO31000m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO310000m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO310000m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO310000m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO310000m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO310000m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+doubleO310000m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float100m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float100m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float100m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float100m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float100m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float100m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float500m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float500m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float500m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float500m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float500m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float500m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float1000m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float1000m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float1000m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float1000m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float1000m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float1000m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float10000m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float10000m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float10000m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float10000m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float10000m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+float10000m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO3100m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO3100m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO3100m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+/var/spool/slurm/d/job03502/slurm_script: Zeile 155: cho: Kommando nicht gefunden.
+srun: error: Only allocated 1 nodes asked for 8
+floatO3100m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO3100m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO3500m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO3500m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO3500m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO3500m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO3500m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO3500m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO31000m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO31000m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO31000m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO31000m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO31000m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO31000m32t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO310000m1t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO310000m2t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO310000m4t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO310000m8t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO310000m16t.txt
+srun: error: Only allocated 1 nodes asked for 8
+floatO310000m32t.txt

@@ -1,0 +1,360 @@
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double100m1t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double100m2t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double100m4t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double100m8t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double100m16t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double100m32t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double500m1t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double500m2t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double500m4t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double500m8t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double500m16t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double500m32t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double1000m1t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double1000m2t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double1000m4t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double1000m8t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double1000m16t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double1000m32t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double10000m1t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double10000m2t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double10000m4t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double10000m8t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double10000m16t.txt
+srun: error: peac01: task 0: Exited with exit code 1
+double: 1: No such file or directory
+double10000m32t.txt
+Cylcles fuer Threded version  = 7423274
+Cylcles fuer normale version  = 53100
+Cylcles differenz zu normalen version  = -7370174
+doubleO3100m1t.txt
+Cylcles fuer Threded version  = 7553777
+Cylcles fuer normale version  = 53267
+Cylcles differenz zu normalen version  = -7500510
+doubleO3100m2t.txt
+Cylcles fuer Threded version  = 7379095
+Cylcles fuer normale version  = 53990
+Cylcles differenz zu normalen version  = -7325105
+doubleO3100m4t.txt
+Cylcles fuer Threded version  = 11425458
+Cylcles fuer normale version  = 88571
+Cylcles differenz zu normalen version  = -11336887
+doubleO3100m8t.txt
+Cylcles fuer Threded version  = 7424513
+Cylcles fuer normale version  = 54539
+Cylcles differenz zu normalen version  = -7369974
+doubleO3100m16t.txt
+Cylcles fuer Threded version  = 6542800
+Cylcles fuer normale version  = 52811
+Cylcles differenz zu normalen version  = -6489989
+doubleO3100m32t.txt
+Cylcles fuer Threded version  = 39090039
+Cylcles fuer normale version  = 1937723
+Cylcles differenz zu normalen version  = -37152316
+doubleO3500m1t.txt
+Cylcles fuer Threded version  = 38351557
+Cylcles fuer normale version  = 1930429
+Cylcles differenz zu normalen version  = -36421128
+doubleO3500m2t.txt
+Cylcles fuer Threded version  = 38662751
+Cylcles fuer normale version  = 2215466
+Cylcles differenz zu normalen version  = -36447285
+doubleO3500m4t.txt
+Cylcles fuer Threded version  = 39997000
+Cylcles fuer normale version  = 2182808
+Cylcles differenz zu normalen version  = -37814192
+doubleO3500m8t.txt
+Cylcles fuer Threded version  = 40041233
+Cylcles fuer normale version  = 2196674
+Cylcles differenz zu normalen version  = -37844559
+doubleO3500m16t.txt
+Cylcles fuer Threded version  = 39628615
+Cylcles fuer normale version  = 2187072
+Cylcles differenz zu normalen version  = -37441543
+doubleO3500m32t.txt
+Cylcles fuer Threded version  = 73585452
+Cylcles fuer normale version  = 8538097
+Cylcles differenz zu normalen version  = -65047355
+doubleO31000m1t.txt
+Cylcles fuer Threded version  = 71589600
+Cylcles fuer normale version  = 8488311
+Cylcles differenz zu normalen version  = -63101289
+doubleO31000m2t.txt
+Cylcles fuer Threded version  = 74039063
+Cylcles fuer normale version  = 8617293
+Cylcles differenz zu normalen version  = -65421770
+doubleO31000m4t.txt
+Cylcles fuer Threded version  = 73771637
+Cylcles fuer normale version  = 8681767
+Cylcles differenz zu normalen version  = -65089870
+doubleO31000m8t.txt
+Cylcles fuer Threded version  = 73477917
+Cylcles fuer normale version  = 8471113
+Cylcles differenz zu normalen version  = -65006804
+doubleO31000m16t.txt
+Cylcles fuer Threded version  = 74744620
+Cylcles fuer normale version  = 8571835
+Cylcles differenz zu normalen version  = -66172785
+doubleO31000m32t.txt
+Cylcles fuer Threded version  = 800226329
+Cylcles fuer normale version  = 673776925
+Cylcles differenz zu normalen version  = -126449404
+doubleO310000m1t.txt
+Cylcles fuer Threded version  = 786751908
+Cylcles fuer normale version  = 673425250
+Cylcles differenz zu normalen version  = -113326658
+doubleO310000m2t.txt
+Cylcles fuer Threded version  = 811327225
+Cylcles fuer normale version  = 672465365
+Cylcles differenz zu normalen version  = -138861860
+doubleO310000m4t.txt
+Cylcles fuer Threded version  = 784938951
+Cylcles fuer normale version  = 673250765
+Cylcles differenz zu normalen version  = -111688186
+doubleO310000m8t.txt
+Cylcles fuer Threded version  = 786743976
+Cylcles fuer normale version  = 690457505
+Cylcles differenz zu normalen version  = -96286471
+doubleO310000m16t.txt
+Cylcles fuer Threded version  = 784164825
+Cylcles fuer normale version  = 673865122
+Cylcles differenz zu normalen version  = -110299703
+doubleO310000m32t.txt
+Cylcles fuer Threded version  = 7415651
+Cylcles fuer normale version  = 243069
+Cylcles differenz zu normalen version  = -7172582
+float100m1t.txt
+Cylcles fuer Threded version  = 7461772
+Cylcles fuer normale version  = 242463
+Cylcles differenz zu normalen version  = -7219309
+float100m2t.txt
+Cylcles fuer Threded version  = 7410484
+Cylcles fuer normale version  = 242436
+Cylcles differenz zu normalen version  = -7168048
+float100m4t.txt
+Cylcles fuer Threded version  = 7568633
+Cylcles fuer normale version  = 241744
+Cylcles differenz zu normalen version  = -7326889
+float100m8t.txt
+Cylcles fuer Threded version  = 7560614
+Cylcles fuer normale version  = 243425
+Cylcles differenz zu normalen version  = -7317189
+float100m16t.txt
+Cylcles fuer Threded version  = 11135170
+Cylcles fuer normale version  = 245133
+Cylcles differenz zu normalen version  = -10890037
+float100m32t.txt
+Cylcles fuer Threded version  = 34319529
+Cylcles fuer normale version  = 6113545
+Cylcles differenz zu normalen version  = -28205984
+float500m1t.txt
+Cylcles fuer Threded version  = 33861239
+Cylcles fuer normale version  = 6155638
+Cylcles differenz zu normalen version  = -27705601
+float500m2t.txt
+Cylcles fuer Threded version  = 33838369
+Cylcles fuer normale version  = 6019771
+Cylcles differenz zu normalen version  = -27818598
+float500m4t.txt
+Cylcles fuer Threded version  = 34077474
+Cylcles fuer normale version  = 6049885
+Cylcles differenz zu normalen version  = -28027589
+float500m8t.txt
+Cylcles fuer Threded version  = 33941431
+Cylcles fuer normale version  = 6165459
+Cylcles differenz zu normalen version  = -27775972
+float500m16t.txt
+Cylcles fuer Threded version  = 33793080
+Cylcles fuer normale version  = 6042863
+Cylcles differenz zu normalen version  = -27750217
+float500m32t.txt
+Cylcles fuer Threded version  = 70759941
+Cylcles fuer normale version  = 24109123
+Cylcles differenz zu normalen version  = -46650818
+float1000m1t.txt
+Cylcles fuer Threded version  = 75271739
+Cylcles fuer normale version  = 24309786
+Cylcles differenz zu normalen version  = -50961953
+float1000m2t.txt
+Cylcles fuer Threded version  = 74887771
+Cylcles fuer normale version  = 24199568
+Cylcles differenz zu normalen version  = -50688203
+float1000m4t.txt
+Cylcles fuer Threded version  = 75204372
+Cylcles fuer normale version  = 24114355
+Cylcles differenz zu normalen version  = -51090017
+float1000m8t.txt
+Cylcles fuer Threded version  = 74037204
+Cylcles fuer normale version  = 24192631
+Cylcles differenz zu normalen version  = -49844573
+float1000m16t.txt
+Cylcles fuer Threded version  = 75820166
+Cylcles fuer normale version  = 24186089
+Cylcles differenz zu normalen version  = -51634077
+float1000m32t.txt
+Cylcles fuer Threded version  = 1280350863
+Cylcles fuer normale version  = 2382907970
+Cylcles differenz zu normalen version  = 1102557107
+float10000m1t.txt
+Cylcles fuer Threded version  = 1273852243
+Cylcles fuer normale version  = 2398024261
+Cylcles differenz zu normalen version  = 1124172018
+float10000m2t.txt
+Cylcles fuer Threded version  = 1249995081
+Cylcles fuer normale version  = 2398039309
+Cylcles differenz zu normalen version  = 1148044228
+float10000m4t.txt
+Cylcles fuer Threded version  = 1237703874
+Cylcles fuer normale version  = 2382696132
+Cylcles differenz zu normalen version  = 1144992258
+float10000m8t.txt
+Cylcles fuer Threded version  = 1284052452
+Cylcles fuer normale version  = 2386706674
+Cylcles differenz zu normalen version  = 1102654222
+float10000m16t.txt
+Cylcles fuer Threded version  = 1247873727
+Cylcles fuer normale version  = 2379929500
+Cylcles differenz zu normalen version  = 1132055773
+float10000m32t.txt
+Cylcles fuer Threded version  = 7353279
+Cylcles fuer normale version  = 51715
+Cylcles differenz zu normalen version  = -7301564
+floatO3100m1t.txt
+Cylcles fuer Threded version  = 7457918
+Cylcles fuer normale version  = 51281
+Cylcles differenz zu normalen version  = -7406637
+floatO3100m2t.txt
+Cylcles fuer Threded version  = 6496879
+Cylcles fuer normale version  = 51207
+Cylcles differenz zu normalen version  = -6445672
+floatO3100m4t.txt
+Cylcles fuer Threded version  = 6406056
+Cylcles fuer normale version  = 51727
+Cylcles differenz zu normalen version  = -6354329
+floatO3100m8t.txt
+Cylcles fuer Threded version  = 6480548
+Cylcles fuer normale version  = 51417
+Cylcles differenz zu normalen version  = -6429131
+floatO3100m16t.txt
+Cylcles fuer Threded version  = 6330238
+Cylcles fuer normale version  = 51960
+Cylcles differenz zu normalen version  = -6278278
+floatO3100m32t.txt
+Cylcles fuer Threded version  = 39521250
+Cylcles fuer normale version  = 1343786
+Cylcles differenz zu normalen version  = -38177464
+floatO3500m1t.txt
+Cylcles fuer Threded version  = 43176319
+Cylcles fuer normale version  = 1418905
+Cylcles differenz zu normalen version  = -41757414
+floatO3500m2t.txt
+Cylcles fuer Threded version  = 43618405
+Cylcles fuer normale version  = 1438074
+Cylcles differenz zu normalen version  = -42180331
+floatO3500m4t.txt
+Cylcles fuer Threded version  = 44228628
+Cylcles fuer normale version  = 1457654
+Cylcles differenz zu normalen version  = -42770974
+floatO3500m8t.txt
+Cylcles fuer Threded version  = 43956287
+Cylcles fuer normale version  = 1348667
+Cylcles differenz zu normalen version  = -42607620
+floatO3500m16t.txt
+Cylcles fuer Threded version  = 44233903
+Cylcles fuer normale version  = 1332600
+Cylcles differenz zu normalen version  = -42901303
+floatO3500m32t.txt
+Cylcles fuer Threded version  = 80421988
+Cylcles fuer normale version  = 5424385
+Cylcles differenz zu normalen version  = -74997603
+floatO31000m1t.txt
+Cylcles fuer Threded version  = 77723193
+Cylcles fuer normale version  = 5437652
+Cylcles differenz zu normalen version  = -72285541
+floatO31000m2t.txt
+Cylcles fuer Threded version  = 78581471
+Cylcles fuer normale version  = 5425551
+Cylcles differenz zu normalen version  = -73155920
+floatO31000m4t.txt
+Cylcles fuer Threded version  = 79792619
+Cylcles fuer normale version  = 5389331
+Cylcles differenz zu normalen version  = -74403288
+floatO31000m8t.txt
+Cylcles fuer Threded version  = 78447138
+Cylcles fuer normale version  = 5384592
+Cylcles differenz zu normalen version  = -73062546
+floatO31000m16t.txt
+Cylcles fuer Threded version  = 79782615
+Cylcles fuer normale version  = 5389794
+Cylcles differenz zu normalen version  = -74392821
+floatO31000m32t.txt
+Cylcles fuer Threded version  = 769307508
+Cylcles fuer normale version  = 450579404
+Cylcles differenz zu normalen version  = -318728104
+floatO310000m1t.txt
+Cylcles fuer Threded version  = 765779402
+Cylcles fuer normale version  = 450806680
+Cylcles differenz zu normalen version  = -314972722
+floatO310000m2t.txt
+Cylcles fuer Threded version  = 772132414
+Cylcles fuer normale version  = 450663784
+Cylcles differenz zu normalen version  = -321468630
+floatO310000m4t.txt
+Cylcles fuer Threded version  = 764939684
+Cylcles fuer normale version  = 450376541
+Cylcles differenz zu normalen version  = -314563143
+floatO310000m8t.txt
+Cylcles fuer Threded version  = 762239234
+Cylcles fuer normale version  = 458464076
+Cylcles differenz zu normalen version  = -303775158
+floatO310000m16t.txt
+Cylcles fuer Threded version  = 804437993
+Cylcles fuer normale version  = 449860434
+Cylcles differenz zu normalen version  = -354577559
+floatO310000m32t.txt
